@@ -8,8 +8,8 @@ The project is beginner-friendly and useful for understanding how chatbots work 
 
 # Technology Used
 
-Python
+- Python
 
-NLP (tokenization, text preprocessing)
+- NLP (tokenization, text preprocessing)
 
-Regular Expressions (pattern matching)
+- Regular Expressions (pattern matching)
