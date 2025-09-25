@@ -36,7 +36,7 @@ The project is beginner-friendly and useful for understanding how chatbots work 
 
 ## Output
 
-The chatbot responds to user inputs based on predefined intents and patterns.
+- The chatbot responds to user inputs based on predefined intents and patterns.
 Example outputs include greetings, answers to basic questions, and farewell messages.
 
 ## Author
