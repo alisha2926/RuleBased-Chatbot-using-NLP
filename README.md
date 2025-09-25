@@ -37,5 +37,4 @@ The project is beginner-friendly and useful for understanding how chatbots work 
 The chatbot responds to user inputs based on predefined intents and patterns.
 Example outputs include greetings, answers to basic questions, and farewell messages.
 
-## Author
-Alisha Singh
+<img src = "https://github.com/alisha2926/RuleBased-Chatbot-using-NLP/blob/main/chatpic.png">
